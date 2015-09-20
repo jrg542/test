@@ -10,3 +10,4 @@ test3
 test2
 conflict
 0000
+test add hello
